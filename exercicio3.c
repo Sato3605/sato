@@ -1,4 +1,7 @@
-/*
+/*Implemente o algoritmo de busca binária em linguagem C. Utilize para testes, um vetor com 15
+elementos. Os valores devem ser inseridos diretamente no vetor. Observe a necessidade de ordenar o
+vetor antes de iniciar a atividade de busca.
+
  * Exercicio 3 - Busca binaria
  * Vetor de 15 elementos. Como a busca binaria EXIGE vetor ordenado,
  * o vetor e ordenado com Bubble Sort antes da busca.

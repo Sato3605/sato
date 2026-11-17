@@ -1,4 +1,7 @@
-/*
+/*Refaça a atividade anterior assumindo que um valor pode aparecer várias vezes em um vetor. Neste
+caso, deve ser mostrado todas as posições (índices) onde o valor foi encontrado. Se a valor não for
+encontrado no vetor, a mensagem "Valor não encontrado" deve ser exibida ao usuário
+
  * Exercicio 2 - Busca sequencial com valores repetidos
  * Mostra TODAS as posicoes onde o valor aparece.
  * Se nao encontrar, exibe "Valor não encontrado".

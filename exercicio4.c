@@ -1,4 +1,6 @@
-/*
+/*Altere o método de busca binária da atividade anterior para que, a cada divisão do vetor, seja
+mostrado quantos elementos foram descartados na busca.
+
  * Exercicio 4 - Busca binaria mostrando os descartes
  * A cada divisao do vetor, mostra quantos elementos foram descartados.
  *

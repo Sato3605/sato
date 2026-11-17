@@ -1,4 +1,7 @@
-/*
+/*Dado o vetor ordenado A = {1, 5, 6, 7, 12, 17, 22, 45, 65, 98, 100, 120, 150, 200, 231}, mostre passo a
+passo a pesquisa binária pelo elemento 100. Quantas comparações foram feitas? E se a pesquisa fosse
+seqüencial, quantas comparações seriam feitas?
+
  * Exercicio 5 - Pesquisa binaria passo a passo pelo elemento 100
  * A = {1, 5, 6, 7, 12, 17, 22, 45, 65, 98, 100, 120, 150, 200, 231}
  *

@@ -1,4 +1,6 @@
-/*
+/*Implemente o algoritmo de busca sequencial em linguagem C. Utilize para testes, um vetor com 10
+elementos. Os valores devem ser inseridos diretamente no veto
+
  * Exercicio 1 - Busca sequencial
  * Vetor de 10 elementos com valores inseridos diretamente no codigo.
  *
